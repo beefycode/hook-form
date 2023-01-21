@@ -1,0 +1,17 @@
+.App {
+  display: flex;
+  text-align: center;
+}
+.App .InputLabel {
+  display: flex;
+  width: 400px;
+  height: 50px;
+  padding: 5px;
+  margin: 20px;
+  background-color: palegreen;
+  border: 4px solid chocolate;
+}
+.Inputs {
+  align-items: center;
+  margin-left: 20px;
+}
